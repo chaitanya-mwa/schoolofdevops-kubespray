@@ -1,5 +1,5 @@
 # **Kubespray**
-![kubespray](https://kubernetes.io/images/favicon.png)
+![kubespray](images/kubespray.png)
 
 # Supported Tags and respective `Dockerfile` links
 * latest ([Dockerfile](https://github.com/vijayboopathy/automation/blob/master/docker/kubespray/Dockerfile))
