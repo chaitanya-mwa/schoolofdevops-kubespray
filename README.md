@@ -1,5 +1,6 @@
 # **Kubespray**
 ![kubespray](images/kubespray.png)
+
 Kubespray is a composition of Ansible playbooks for Kubernetes configuration management tasks.
 
 # Supported Tags and respective `Dockerfile` links
